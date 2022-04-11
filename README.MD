@@ -1,4 +1,7 @@
-## *[UX Engineer](https://ko.wikipedia.org/wiki/UX_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)*, 디자인을 이해하는 FE/SW 엔지니어
+## UX Engineer, 디자인을 이해하는 FE/SW 엔지니어
+
+**[UX Engineer](https://ko.wikipedia.org/wiki/UX_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)** 의 정의를 편집하고 있습니다. <I>2021.06 ~</I>
+
 
 ### Front-end development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
